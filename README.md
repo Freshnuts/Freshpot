@@ -1,2 +1,2 @@
 # FreshPot
-SSH Honeybot
+SSH Honeypot
