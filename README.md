@@ -23,6 +23,9 @@ Contents
 
 
 
+Steps
+-----
+
 1. Raspbian Setup
 
 :# sudo dd bs=4M if=2020-12-02-raspios-buster-armhf-full.img of=/dev/mmcblk0p1 conv=fsync
