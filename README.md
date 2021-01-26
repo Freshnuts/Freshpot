@@ -47,9 +47,9 @@ Steps
 
 4.  Create/Configure Users
 
-root:toor
-pi:honey
-guest:[no password]
+root:toor<br>
+pi:honey<br>
+guest:[no password]<br>
 
 5. Logging & Archiving Activity:
 
