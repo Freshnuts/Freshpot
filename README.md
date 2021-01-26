@@ -53,6 +53,9 @@ guest:[no password]<br>
 
 5. Logging & Archiving Activity:
 
-- Try 3 different honey SSH frameworks
+- Try 3 different honeypot frameworks
+	- Malware Collector
+	- Snort - Detect Attempts & Established Connections
+	- 
 - Obtain Intruder information
 - Create a logging solution for SSH service.
